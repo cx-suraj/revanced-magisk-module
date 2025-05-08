@@ -1,6 +1,6 @@
 {
-  "version": "v7.24.0.746524260 (patches: 5.19.1)",
-  "versionCode": 17,
-  "zipUrl": "https://github.com/cx-suraj/revanced-magisk-module/releases/download/17/googlephotos-revanced-magisk-v7.24.0.746524260-arm-v7a.zip",
+  "version": "v7.28.0.754713439 (patches: 5.22.0)",
+  "versionCode": 21,
+  "zipUrl": "https://github.com/cx-suraj/revanced-magisk-module/releases/download/21/googlephotos-revanced-magisk-v7.28.0.754713439-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/cx-suraj/revanced-magisk-module/update/build.md"
 }
