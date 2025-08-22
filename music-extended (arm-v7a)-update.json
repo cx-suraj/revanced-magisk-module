@@ -1,6 +1,6 @@
 {
-  "version": "v8.12.53 (patches: 5.8.1)",
-  "versionCode": 34,
-  "zipUrl": "https://github.com/cx-suraj/revanced-magisk-module/releases/download/34/yt-music-revanced-extended-magisk-v8.12.53-arm-v7a.zip",
+  "version": "v8.12.53 (patches 5.8.1)",
+  "versionCode": 37,
+  "zipUrl": "https://github.com/cx-suraj/revanced-magisk-module/releases/download/37/yt-music-revanced-extended-magisk-v8.12.53-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/cx-suraj/revanced-magisk-module/update/build.md"
 }
